@@ -3,4 +3,4 @@ Allow: /
 Disallow: /_build/
 Disallow: /CLAUDE.md
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://koniture04.co.kr/sitemap.xml
